@@ -13686,7 +13686,7 @@ MonoBehaviour:
   m_text: 'Ohoh there is water here!
 
     maybe we can use we can jump overe it with
-    the stems and rock
+    the logs and rock
 
     Press the SPACEBAR to jump'
   m_isRightToLeft: 0
@@ -24378,7 +24378,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Look to your right \nand press W"
+  m_text: 'Move your mouse to the right
+
+    and press W'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
